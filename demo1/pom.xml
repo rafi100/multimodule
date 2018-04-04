@@ -63,7 +63,7 @@
 								</goals>
 									<configuration>
 											<tasks>
-												<echo>==================>>>>>>>>>>>compile  phase</echo>
+												<echo>============>>>>>>>>>>>compile  phase</echo>
 											</tasks>
 									</configuration>
 					</execution>
